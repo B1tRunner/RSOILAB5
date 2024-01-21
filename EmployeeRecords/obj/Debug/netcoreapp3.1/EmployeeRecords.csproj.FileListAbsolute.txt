@@ -1,0 +1,15 @@
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_5\EmployeeRecords\bin\Debug\netcoreapp3.1\EmployeeRecords.exe
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_5\EmployeeRecords\bin\Debug\netcoreapp3.1\EmployeeRecords.deps.json
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_5\EmployeeRecords\bin\Debug\netcoreapp3.1\EmployeeRecords.runtimeconfig.json
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_5\EmployeeRecords\bin\Debug\netcoreapp3.1\EmployeeRecords.runtimeconfig.dev.json
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_5\EmployeeRecords\bin\Debug\netcoreapp3.1\EmployeeRecords.dll
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_5\EmployeeRecords\bin\Debug\netcoreapp3.1\EmployeeRecords.pdb
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_5\EmployeeRecords\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_5\EmployeeRecords\obj\Debug\netcoreapp3.1\EmployeeRecords.AssemblyInfoInputs.cache
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_5\EmployeeRecords\obj\Debug\netcoreapp3.1\EmployeeRecords.AssemblyInfo.cs
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_5\EmployeeRecords\obj\Debug\netcoreapp3.1\EmployeeRecords.csproj.CoreCompileInputs.cache
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_5\EmployeeRecords\obj\Debug\netcoreapp3.1\EmployeeRecords.csproj.CopyComplete
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_5\EmployeeRecords\obj\Debug\netcoreapp3.1\EmployeeRecords.dll
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_5\EmployeeRecords\obj\Debug\netcoreapp3.1\EmployeeRecords.pdb
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_5\EmployeeRecords\obj\Debug\netcoreapp3.1\EmployeeRecords.genruntimeconfig.cache
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_5\EmployeeRecords\obj\Debug\netcoreapp3.1\EmployeeRecords.csproj.AssemblyReference.cache
